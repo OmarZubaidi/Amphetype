@@ -36,6 +36,8 @@ Or run the script I created.
 ./Amphetype.sh
 ```
 
+["Your average speed -10 WPM and 97% accuracy is a good starting point."](https://forum.colemak.com/topic/2201-training-with-amphetype/)
+
 ## Credits
 
 All credit goes to the [original project](https://gitlab.com/franksh/amphetype). This repo is just for my own use on my own machine.
