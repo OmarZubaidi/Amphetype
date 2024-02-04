@@ -19,18 +19,12 @@ source .venv/bin/activate
 which python
 # /path/to/amphetype/.venv/bin/python
 pip install amphetype
+chmod +x ./Amphetype.sh
 ```
 
 ## Running
 
-You can run Amphetype by:
-
-```bash
-source /path/to/amphetype/.venv/bin/activate
-amphetype
-```
-
-Or run the script I created.
+You can run Amphetype by running the script I created.
 
 ```bash
 ./Amphetype.sh
